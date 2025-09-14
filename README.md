@@ -34,7 +34,7 @@ Ini adalah proyek portfolio pribadi yang menampilkan profil, proyek, sertifikat,
 
 ## Kontak
 
-- Email: puputeraprima@example.com  
+- Email: puputprima48@gmail.com  
 - LinkedIn: [linkedin.com/in/puput-era](https://linkedin.com/in/puput-era)  
 - GitHub: [github.com/Puputera](https://github.com/Puputera)  
 
