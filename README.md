@@ -1,47 +1,43 @@
-# Picto - Personal Portfolio Free Template
+# Portfolio Puput Era Prima
 
-#### Preview
+Selamat datang di Portfolio Puput Era Prima!  
+Ini adalah proyek portfolio pribadi yang menampilkan profil, proyek, sertifikat, dan kontak saya sebagai Fullstack Developer berbasis di Cilacap, Jawa Tengah.
 
-- [Demo](https://themewagon.github.io/picto/)
+---
 
-#### Download
+## Fitur
 
-- [Download from ThemeWagon](https://themewagon.com/themes/picto)
+- Menampilkan halaman Home, About, Resume, Sertifikat Kompetensi, dan Kontak.
+- Responsif untuk tampilan desktop dan mobile.
+- Navigasi halaman menggunakan React Router.
+- Tampilan sertifikat dengan slider menggunakan Swiper.js.
 
-## Getting Started
+---
 
-1. Clone Repository
+## Teknologi
 
-```
-git clone https://github.com/themewagon/picto.git
-```
+- Frontend: React, Vite, Tailwind CSS, Flowbite  
+- Slider: Swiper.js
+- Routing: React Router DOM
 
-2. Install Dependencies
+---
 
-```
-npm i
-```
+## Cara Menjalankan
 
-3. Run the development server:
+1. Clone repositori ini ke komputer.  
+2. Masuk ke folder proyek.  
+3. Install semua dependensi menggunakan `npm install`.  
+4. Jalankan proyek dengan `npm run dev`.  
+5. Buka di browser melalui alamat `http://localhost:5173`.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-## Author
+## Kontak
 
-```
-Developed by ThemeWagon and development team.
-```
+- Email: puputeraprima@example.com  
+- LinkedIn: [linkedin.com/in/puput-era](https://linkedin.com/in/puput-era)  
+- GitHub: [github.com/Puputera](https://github.com/Puputera)  
 
-## License
+---
 
-- Design and Code is Copyright &copy; <a href="http://themewagon.com/" target="_blank">ThemeWagon</a>
-- Licensed cover under [MIT]
-- Developed by <a href="http://themewagon.com/" target="_blank">ThemeWagon</a>
+Puput Era Prima © 2025
