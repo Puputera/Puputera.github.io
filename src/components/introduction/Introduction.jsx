@@ -37,10 +37,13 @@ const Introduction = () => {
             </span>
           </p>
           <p className="text-xs xxs:text-lg lg:text-[18px] my-6">
-            Saya seorang{" "}
-            <span className="bg-highlight">Fullstack Developer</span> berdomisili
-            di Cilacap, Jawa Tengah, dengan fokus pada pengembangan aplikasi web
-            yang interaktif, responsif, dan berorientasi pada pengguna.
+            Saya memiliki ketertarikan pada bidang{" "}
+            <span className="bg-highlight">
+              administrasi dan teknologi informasi.
+            </span>{" "}
+            Saya memiliki pengalaman dalam pengolahan data, pengelolaan dokumen,
+            serta pemanfaatan teknologi untuk meningkatkan efektivitas dan
+            efisiensi pekerjaan.
           </p>
 
           <p className="text-center lg:text-start">

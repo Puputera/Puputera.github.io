@@ -39,17 +39,14 @@ const Profile = () => {
             className={`text-xs xs:text-[16px] lg:text-lg font-normal max-md:text-center text-gray-600`}
           >
             <p className={``}>
-              Saya seorang Fresh Graduate D3 Teknik Informatika yang berfokus
-              pada pengembangan aplikasi web. Selama studi dan magang, saya
-              terbiasa membangun aplikasi menggunakan{" "}
-              <span className="bg-highlight">
-                Laravel, PHP, MySQL, JavaScript, Tailwind CSS,
-              </span>
-              dan <span className="bg-highlight">Flowbite</span>.
-            </p>
-            <p className="mt-3">
-              Selain itu, saya juga mengikuti
-              Coding Camp powered by DBS Foundation 2025 Learning Path Frontend Backend Developer untuk mengasah keterampilan dan pengalaman saya.
+              Saya merupakan lulusan D3 Teknik Informatika yang memiliki minat
+              di bidang administrasi, pengolahan data, dan teknologi informasi.
+              Selama masa studi, organisasi, dan pelatihan, saya terbiasa
+              menggunakan berbagai aplikasi perkantoran, mengelola data, serta
+              memanfaatkan teknologi untuk mendukung efisiensi pekerjaan. Selain
+              itu, saya mengikuti Coding Camp powered by DBS Foundation 2025 dan
+              pelatihan Practical Office Advance untuk mengembangkan
+              keterampilan teknis, komunikasi, dan kerja sama tim.
             </p>
           </div>
           <div className="mt-8 flex max-md:justify-center">
